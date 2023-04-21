@@ -1,0 +1,19 @@
+2 tane badem sütü=24 TL
+1 tane kirmizi meyveler=13 TL
+Toplam Fiyat=37 TL
+İşlem Tarihi= 2023-04-22
+İşlem Saati=02:05
+_____________
+2 tane vitamin=30 TL
+1 tane badem sütü=12 TL
+Toplam Fiyat=42 TL
+İşlem Tarihi= 2023-04-22
+İşlem Saati=02:06
+_____________
+1 tane smoothie klasik=20 TL
+1 tane elma=7 TL
+1 tane yeşil aroma=12 TL
+Toplam Fiyat=39 TL
+İşlem Tarihi= 2023-04-22
+İşlem Saati=02:09
+_____________
